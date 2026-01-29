@@ -1,5 +1,6 @@
 # pka-ml-prediction
 This project was developed as part of the MBA in Data Science, supported by the Center for Research in Applied Mathematics to Industry (CeMEAI), at the University of São Paulo (USP), Institute of Mathematical and Computer Sciences (ICMC–USP). 
+This project is intended for academic and research purposes.
 
 # Ordinal Classification and Regression of pKa Values using Machine Learning
 
