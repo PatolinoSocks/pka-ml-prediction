@@ -1,5 +1,5 @@
 # pka-ml-prediction
-Machine learning models for pKa classification and prediction using RDKit descriptors, Gradient Boosting and XGBoost.
+This project was developed as part of the MBA in Data Science, supported by the Center for Research in Applied Mathematics to Industry (CeMEAI), at the University of São Paulo (USP), Institute of Mathematical and Computer Sciences (ICMC–USP). 
 
 # Ordinal Classification and Regression of pKa Values using Machine Learning
 
