@@ -4,7 +4,7 @@
 
 **License**: This project is intended for academic and research purposes.
 
-**Author**: Dr. Raphael da Silva Alvim, MBA in Data Science – CeMEAI / USP, Background in Chemistry and Computational Modeling
+**Author**: Raphael da Silva Alvim, MBA in Data Science – CeMEAI / USP, PhD in Chemistry and Computational Modeling
 
 # Ordinal Classification and Regression of pKa Values using Machine Learning
 
